@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" width="200" alt="Zomato Logo">
+</p>
 # Zomato SQL Data Analysis Project
 
 ## About This Project
