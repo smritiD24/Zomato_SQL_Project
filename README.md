@@ -1,6 +1,6 @@
 
 # Zomato SQL Data Analysis Project
-
+![ERD](https://github.com/smritiD24/Zomato_SQL_Project/blob/main/Zomato_logo.png)
 ## About This Project
 
 I picked Zomato as my first serious SQL project because it's a company I actually use, and the data model maps really well to real-world business questions — riders, restaurants, customers, orders, deliveries all interacting with each other. The goal wasn't just to run queries, but to think about what the business would actually want to know.
