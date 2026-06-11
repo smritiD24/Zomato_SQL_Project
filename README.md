@@ -26,7 +26,7 @@ zomato-sql-analysis/
 
 Five tables, all connected through foreign keys:
 
-![ERD]([https://github.com/najirh/zomato_sqlp3/blob/main/erd.png](https://github.com/smritiD24/Zomato_SQL_Project/blob/main/erd.png))
+![ERD](https://github.com/smritiD24/Zomato_SQL_Project/blob/main/ERD_Zomato.png))
 
 | Table | What it stores |
 |---|---|
