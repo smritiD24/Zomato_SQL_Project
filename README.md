@@ -15,9 +15,10 @@ I used **PostgreSQL** for this. The dataset is synthetic (AI-generated sample da
 zomato-sql-analysis/
 │
 ├── README.md                        -- you're reading it
-├── schema_setup.sql                 -- database + table creation
-├── 20_Business_Problems_solution.sql   -- core 20 business problems
-└── additional_problems.sql          -- 5 extra problems I added on my own
+├── Additional Questions
+├── Zomato_sql.sql
+├── Dataset
+└── Zomato_Logo
 ```
 
 ---
